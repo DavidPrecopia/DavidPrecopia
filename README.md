@@ -7,6 +7,14 @@ I'm an Android app developer with a passion for writing programs that are clean,
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-m-precopia/)
 - 🚗 Fun fact: I've rotated my car's tires, so I'm basically a mechanic.
 
+---
+
+### 📕 Latest Blog Posts (WIP)
+<!-- MEDIUM-POSTS-LIST:START -->
+<!-- MEDIUM-POSTS-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/feed/@david.m.precopia)
+
 <!--
 Tech Stack:
 - JUnit 4 and 5
