@@ -5,7 +5,7 @@ on:
     - cron: '0 6 * * 1`
 
 jobs:
-  update-readme:
+  update:
     name: Update this repo's README with latest Medium posts
     runs-on: ubuntu-latest
     steps:
