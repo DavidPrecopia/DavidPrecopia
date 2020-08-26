@@ -3,7 +3,6 @@ on:
   schedule:
     # Runs at 6am every Monday
     - cron: '0 6 * * 1`
-  workflow_dispatch:
 
 jobs:
   update-readme:
