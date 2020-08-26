@@ -3,11 +3,10 @@ on:
   schedule:
     # Runs at 6am every Monday
     - cron: '0 6 * * 1`
-  # Enables manually running the job
   workflow_dispatch:
 
 jobs:
-  update-readme-with-medium-posts:
+  update-readme:
     name: Update this repo's README with latest Medium posts
     runs-on: ubuntu-latest
     steps:
