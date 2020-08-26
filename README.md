@@ -13,7 +13,7 @@ I'm an Android app developer with a passion for writing programs that are clean,
 <!-- MEDIUM-POSTS-LIST:START -->
 <!-- MEDIUM-POSTS-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/feed/@david.m.precopia)
+➡️ [more blog posts...](https://medium.com/@david.m.precopia)
 
 <!--
 Tech Stack:
