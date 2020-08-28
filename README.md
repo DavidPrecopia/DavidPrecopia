@@ -9,9 +9,9 @@ I'm an Android app developer with a passion for writing programs that are clean,
 
 ---
 
-### 📕 Latest Blog Posts (WIP)
-<!-- MEDIUM-POSTS-LIST:START -->
-<!-- MEDIUM-POSTS-LIST:END -->
+### 📕 Latest Blog Posts
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ➡️ [more blog posts...](https://medium.com/@david.m.precopia)
 
