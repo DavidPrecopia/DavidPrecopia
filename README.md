@@ -11,6 +11,7 @@ I'm an Android app developer with a passion for writing programs that are clean,
 
 ### 📕 Latest Blog Posts
 <!-- MEDIUM:START -->
+- [Mistakes Were Made: toString() != getString()](https://medium.com/@david.m.precopia/mistakes-were-made-tostring-getstring-735042dc1dac?source=rss-9a949e61c4e------2)
 <!-- MEDIUM:END -->
 
 ➡️ [more blog posts...](https://medium.com/@david.m.precopia)
