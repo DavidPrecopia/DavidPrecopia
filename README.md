@@ -1,6 +1,6 @@
 ### Hi there, I'm David Precopia 👋  
 
-I'm an Android app developer with a passion for writing programs that are clean, testable, and modular. I have training and experience with Java, Kotlin, SQL, and XML.
+I'm an Java and Android app developer with a passion for writing programs that are clean, testable, and modular. I have training and experience with Java, Kotlin, SQL, and XML.
 
 - 🔭 I’m currently working on [Harvard's CS50 course](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) and keeping my skills sharp with my two personal projects, [Lists](https://github.com/DavidPrecopia/Lists) and [RxTracker](https://github.com/DavidPrecopia/RxTracker).
 - 📚 On the side I'm learning 🤖 CI/CD (via GitHub Actions) and 🇳🇴 Norwegian.
