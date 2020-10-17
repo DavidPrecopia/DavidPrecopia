@@ -1,10 +1,11 @@
 ### Hi there, I'm David Precopia 👋  
 
-I'm an Java and Android app developer with a passion for writing programs that are clean, testable, and modular. I have training and experience with Java, Kotlin, SQL, and XML.
+I'm a Java and Android app developer with a passion for writing programs that are clean, testable, and modular. I have training and experience with Java, Kotlin, SQL, and XML.
 
-- 🔭 I’m currently working on [Harvard's CS50 course](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) and keeping my skills sharp with my two personal projects, [Lists](https://github.com/DavidPrecopia/Lists) and [RxTracker](https://github.com/DavidPrecopia/RxTracker).
-- 📚 On the side I'm learning 🤖 CI/CD (via GitHub Actions) and 🇳🇴 Norwegian.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/david-m-precopia/)
+- 👨‍💻 I work at PNC as a Quality Engineer within a web development Agile team.
+- 📚 On the side I'm learning 🌐 web development and 🇳🇴 Norwegian while working through [Harvard's CS50 course](https://online-learning.harvard.edu/course/cs50-introduction-computer-science).
+- 📱 My (current) personal magnum opuses are my two Android apps, [Lists](https://github.com/DavidPrecopia/Lists) and [RxTracker](https://github.com/DavidPrecopia/RxTracker).
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/david-m-precopia/).
 - 🚗 Fun fact: I've rotated my car's tires, so I'm basically a mechanic.
 
 ---
@@ -19,6 +20,7 @@ I'm an Java and Android app developer with a passion for writing programs that a
 ➡️ [more blog posts...](https://medium.com/@david.m.precopia)
 
 <!--
+🤖 CI/CD (via GitHub Actions)
 Tech Stack:
 - JUnit 4 and 5
 - RxJava
