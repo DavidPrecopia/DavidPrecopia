@@ -20,7 +20,7 @@ I'm a Java and Android app developer with a passion for writing programs that ar
 ➡️ [more blog posts...](https://medium.com/@david.m.precopia)
 
 <!--
-🤖 CI/CD (via GitHub Actions)
+🤖 GitHub Actions
 Tech Stack:
 - JUnit 4 and 5
 - RxJava
