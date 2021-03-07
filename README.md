@@ -3,7 +3,7 @@
 I'm a Java and Android app developer with a passion for writing programs that are clean, testable, and modular. I have training and experience with Java, Kotlin, SQL, and XML.
 
 - 👨‍💻 I work at PNC as a Quality Engineer within a web development Agile team.
-- 📚 On the side I'm learning 🌐 web development and 🇳🇴 Norwegian while working through [Harvard's CS50 course](https://online-learning.harvard.edu/course/cs50-introduction-computer-science).
+- 📚 On the side I'm learning 🎬 Final Cut Pro, 📱 iOS app development, and 🇳🇴 Norwegian.
 - 📱 My (current) personal magnum opuses are my two Android apps, [Lists](https://github.com/DavidPrecopia/Lists) and [RxTracker](https://github.com/DavidPrecopia/RxTracker).
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/david-m-precopia/).
 - 🚗 Fun fact: I've rotated my car's tires, so I'm basically a mechanic.
