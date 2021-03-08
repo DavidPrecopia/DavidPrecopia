@@ -11,8 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: t
         with:
           comment_tag_name: "MEDIUM"
           commit_message: "Updated README with the latest Medium posts"
           feed_list: "https://medium.com/feed/@david.m.precopia"
+          #david-m-precopia.medium.com
