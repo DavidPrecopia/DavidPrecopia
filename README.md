@@ -12,9 +12,10 @@ I'm a Java and Android app developer with a passion for writing programs that ar
 
 ### 📕 Latest Blog Posts
 <!-- MEDIUM:START -->
-- [How to run JUnit 5 tests via Gradle CLI commands in Android projects](https://medium.com/@david.m.precopia/how-to-run-junit-5-tests-via-gradle-cli-commands-in-android-projects-d06b4ba3ccf?source=rss-9a949e61c4e------2)
-- [How to Add JUnit 5 to your Android project](https://medium.com/@david.m.precopia/how-to-add-junit-5-to-your-android-project-c9851aa63a62?source=rss-9a949e61c4e------2)
-- [Mistakes Were Made: toString() != getString()](https://medium.com/@david.m.precopia/mistakes-were-made-tostring-getstring-735042dc1dac?source=rss-9a949e61c4e------2)
+- [My First Experience Selling on Swappa](https://medium.com/@david-m-precopia/my-first-experience-selling-on-swappa-167afdba81e3?source=rss-9a949e61c4e------2)
+- [How to run JUnit 5 tests via Gradle CLI commands in Android projects](https://medium.com/@david-m-precopia/how-to-run-junit-5-tests-via-gradle-cli-commands-in-android-projects-d06b4ba3ccf?source=rss-9a949e61c4e------2)
+- [How to Add JUnit 5 to your Android project](https://medium.com/@david-m-precopia/how-to-add-junit-5-to-your-android-project-c9851aa63a62?source=rss-9a949e61c4e------2)
+- [Mistakes Were Made: toString() != getString()](https://medium.com/@david-m-precopia/mistakes-were-made-tostring-getstring-735042dc1dac?source=rss-9a949e61c4e------2)
 <!-- MEDIUM:END -->
 
 ➡️ [more blog posts...](https://medium.com/@david.m.precopia)
