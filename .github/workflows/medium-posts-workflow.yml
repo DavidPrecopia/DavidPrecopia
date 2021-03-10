@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "MEDIUM"
           commit_message: "Updated README with the latest Medium posts"
-          feed_list: "https://david-m-precopia.medium.com/"
+          feed_list: "https://medium.com/feed/@david-m-precopia"
