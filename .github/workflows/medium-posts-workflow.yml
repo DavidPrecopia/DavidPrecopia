@@ -1,8 +1,8 @@
 name: Latest Medium posts workflow
 on:
-  # schedule:
-    # Runs at 6am EST every day
-    # - cron: '0 10 * * *'
+  schedule:
+    # Runs at 6am EST every Saturday
+      - cron: '0 10 * * 6'
   workflow_dispatch:
 
 jobs:
