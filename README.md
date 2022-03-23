@@ -2,7 +2,7 @@
 
 I'm a Java and Android app developer with a passion for writing programs that are clean, testable, and modular. I have training and experience with Java, Kotlin, SQL, and XML.
 
-- 👨‍💻 I work at PNC as a Quality Engineer within a web development Agile team.
+- 👨‍💻 I work at PNC as a Software Developer Associate within an Agile web development team.
 - 📚 On the side I'm learning 📱 iOS app development, 💻 NodeJS, 🎬 Final Cut Pro, and 🇳🇴 Norwegian.
 - 📱 My (current) personal magnum opuses are my two Android apps, [Lists](https://github.com/DavidPrecopia/Lists) and [RxTracker](https://github.com/DavidPrecopia/RxTracker).
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/david-m-precopia/).
