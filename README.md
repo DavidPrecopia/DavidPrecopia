@@ -2,7 +2,7 @@
 
 An Android Software Developer with PNC Bank who has a passion for writing programs that are clean, testable, and modular. I primarily write apps in Kotlin, with extensive experience with Java and SQL as well.
 
-- 🪣 My [BitBucket profile](https://bitbucket.org/davidprecopia/), where you can find projects I've used to teach the paradigms of software development to others.
+- 🪣 My [BitBucket profile](https://bitbucket.org/davidprecopia/), where you can find projects I've used to teach the paradigms of clean architecture to others.
 - 📚 On the side I'm learning 📱 iOS app development, 💻 NodeJS, 🎬 Final Cut Pro, and 🇳🇴 Norwegian.
 - 📱 My (current) personal magnum opuses are my two Android apps, [Lists](https://github.com/DavidPrecopia/Lists) and [RxTracker](https://github.com/DavidPrecopia/RxTracker).
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/david-m-precopia/).
