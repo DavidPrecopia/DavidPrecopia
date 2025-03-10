@@ -1,19 +1,17 @@
 name: Latest Medium posts workflow
 on:
   schedule:
-    #Runs at 5am EST every Saturday
-    #- cron: '0 9 * * 6'
     #Runs at 5am EST every Monday
     #- cron: '0 9 * * 1'
   workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
-    name: Update the README with latest Medium posts
+    name: Update the README with my latest Medium posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "MEDIUM"
           commit_message: "Updated README with the latest Medium posts"
