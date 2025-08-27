@@ -7,9 +7,9 @@ jobs:
     name: Update the README with my latest Medium posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "MEDIUM"
           commit_message: "Updated README with the latest Medium posts"
-          feed_list: "https://medium.com/feed/@david-m-precopia"
+          feed_list: ""
